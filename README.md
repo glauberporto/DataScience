@@ -32,7 +32,7 @@ A aplicação da ciência de dados à segurança cibernética é imensa, pois aj
 1. Detecção de intrusão aprimorada e capacidade de previsão aprimorada
 Os hackers têm várias maneiras de invadir um sistema e geralmente mudam suas ferramentas, estilos e métodos a qualquer momento. É por isso que é importante detectar a intrusão com antecedência. No entanto, a adoção e implementação da ciência de dados oferecem às organizações a oportunidade de fornecer algoritmos de aprendizado de máquina com informações atuais e históricas sobre essas invasões.
 
-Isso ajudará uma organização a detectar intrusões, gerenciar seu sistema e até mesmo prever ataques futuros antes mesmo que aconteçam. Com algoritmos de aprendizado de máquina, você pode detectar brechas em um ambiente de segurança da informação que ajuda a fortalecer a segurança em uma organização.
+> Isso ajudará uma organização a detectar intrusões, gerenciar seu sistema e até mesmo prever ataques futuros antes mesmo que aconteçam. Com algoritmos de aprendizado de máquina, você pode detectar brechas em um ambiente de segurança da informação que ajuda a fortalecer a segurança em uma organização.
 
 2. Análise comportamental
 Embora seja bom ser capaz de detectar e identificar malware, outra coisa é entender o comportamento do invasor. A ciência de dados ajuda uma organização a analisar várias informações usando ferramentas de aprendizado de máquina. O comportamento futuro pode então ser previsto correlacionando os logs do sistema e da rede. Isso torna mais fácil processar muitas informações a tempo, enquanto os agentes mal-intencionados podem ser facilmente manipulados.
