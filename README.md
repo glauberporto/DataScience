@@ -5,18 +5,17 @@ Enquanto as organizações usam ciência de dados aplicada e aprendizado de máq
 
 Neste artigo, analisaremos tudo o que você precisa saber sobre ciência de dados e segurança de dados. Você também aprenderá quais algoritmos de IA são adequados para a ciência de dados de IA para formar suas estratégias de análise de dados e como elas se relacionam com a segurança cibernética.
 
-O que é ciência de dados?
+#### O que é ciência de dados?
 A ciência de dados é um campo amplo que abrange vários aspectos. É usado em produtos para prever, prever, classificar, detectar anomalias, encontrar padrões e analisar estatísticas.
 
-O que é aprendizado de máquina?
+#### O que é aprendizado de máquina?
 O aprendizado de máquina é um ramo da inteligência artificial capaz de aprender com os dados fornecidos ou experiências anteriores para ajudar a fazer escolhas informadas. Em outras palavras, o aprendizado de máquina melhorará continuamente a precisão de seus resultados enquanto eles coletam e analisam mais dados.
 
 O que é ciência de dados aplicada?
 Vivemos em um mundo com dados abundantes, mas não podemos aprender nada com os números brutos. Com as técnicas de ciência de dados, tanto as ferramentas de aprendizado de máquina quanto os humanos podem agora descobrir e compreender as descobertas de dados e, em seguida, colocá-las em uso prático. É por isso que as ferramentas de aprendizado de máquina mais eficazes agora usam ciência de dados aplicada.
 
-O que é CSDS?
+#### O que é CSDS?
 A ciência de dados de cibersegurança é uma profissão emergente que usa a ciência de dados para detectar, prevenir e mitigar ameaças à segurança cibernética. A ciência de dados de cibersegurança também pode ser considerada como o processo de uso da ciência de dados para manter os dispositivos, serviços, sistemas e software digitais protegidos contra ataques cibernéticos, questões operacionais, técnicas, econômicas, sociais e políticas.
-
 
 
 3 maneiras pelas quais a ciência de dados aplicada e o aprendizado de máquina podem funcionar juntos
@@ -28,7 +27,7 @@ Rastreadores epidérmicos geralmente são alimentados com dados conhecidos sobre
 O impacto da ciência de dados na indústria de segurança cibernética
 A aplicação da ciência de dados à segurança cibernética é imensa, pois ajuda uma organização a proteger sua rede contra ataques e melhorar as técnicas que podem ser usadas para combater as ameaças cibernéticas. Isso mostra como a IA e a ciência de dados revolucionaram a segurança cibernética de várias maneiras.
 
-Alguns dos impactos da ciência de dados na segurança cibernética são declarados abaixo.
+#### Alguns dos impactos da ciência de dados na segurança cibernética são declarados abaixo.
 
 1. Detecção de intrusão aprimorada e capacidade de previsão aprimorada
 Os hackers têm várias maneiras de invadir um sistema e geralmente mudam suas ferramentas, estilos e métodos a qualquer momento. É por isso que é importante detectar a intrusão com antecedência. No entanto, a adoção e implementação da ciência de dados oferecem às organizações a oportunidade de fornecer algoritmos de aprendizado de máquina com informações atuais e históricas sobre essas invasões.
